@@ -825,9 +825,9 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton("Share With Friends 📱", url=f"https://telegram.me/share/url?url=t.me/FF_Series_Bot")
             ],[
             InlineKeyboardButton("🔍 𝚂𝙴𝙰𝚁𝙲𝙷 🔍", switch_inline_query_current_chat=''), 
-            InlineKeyboardButton("🎬 𝐌𝐨𝐯𝐢𝐞𝐬 𝐁𝐨𝐭", url="https://t.me/RBMoviesBot")
+            InlineKeyboardButton("🎬 𝐒𝐞𝐫𝐢𝐞𝐬 𝐁𝐨𝐭", url="https://t.me/FF_Series_Bot")
             ],[
-            InlineKeyboardButton("🎥 ᴍᴏᴠɪᴇ ᴜᴘᴅᴀᴛᴇs", url="https://t.me/FF_OTT_Updates")
+            InlineKeyboardButton("🎥 ᴍᴏᴠɪᴇ ᴜᴘᴅᴀᴛᴇs", url="https://t.me/FF_OTT_Updates1")
             ],[      
             InlineKeyboardButton("ℹ️ 𝙷𝙴𝙻𝙿 ℹ️", callback_data="help"),
             InlineKeyboardButton("💫 𝙰𝙱𝙾𝚄𝚃 💫", callback_data="about")
